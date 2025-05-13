@@ -1,5 +1,5 @@
 ### Project Overview  
-The **"[Billionaires Data Analysis](#)"** Power BI project provides a deep and interactive exploration of global wealth distribution among the world’s billionaires. Using dynamic dashboards and rich visualizations, the project reveals patterns in net worth, geography, industries, gender, and age demographics. It transforms static data into meaningful insights for understanding the global elite.
+The **"[Billionaires Data Analysis](https://github.com/ChimaOkeke/Billionaires-Data-Analysis)"** Power BI project provides a deep and interactive exploration of global wealth distribution among the world’s billionaires. Using dynamic dashboards and rich visualizations, the project reveals patterns in net worth, geography, industries, gender, and age demographics. It transforms static data into meaningful insights for understanding the global elite.
 
 **Key Features:**
 
